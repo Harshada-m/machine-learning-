@@ -18,3 +18,9 @@ This repository is about  the main steps to go through the data science projects
 Here the dataset is about Breast Cancer Survival rate of the women. EDA here plays an very important role in understanding the data and providing the insights on the data. 
 
 [![Breast Cancer](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgUFdoqn2uKLnQxnwo0DaCsuDFlHg8fRvcHuAm8fGWDTr2-imK "Breast Cancer")](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgUFdoqn2uKLnQxnwo0DaCsuDFlHg8fRvcHuAm8fGWDTr2-imK "Breast Cancer")
+
+# House Price Prediction 
+
+Here the dataset is about the the types of  houses and their features.Linear Regression helps in identifying and predicting the outcome of the sales price for future.
+
+[![House Price Prediction](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQg6WA_pbtTgTsmTLwMTjAve1MmR4DlasQbqG-n4bL4iZtJamfm "House Price Prediction")](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQg6WA_pbtTgTsmTLwMTjAve1MmR4DlasQbqG-n4bL4iZtJamfm "House Price Prediction")
