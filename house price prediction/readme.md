@@ -17,3 +17,7 @@ location.
 We are living in the era of large amounts of data, powerful computers, and artificial intelligence. This is just the beginning. Data science and machine learning are driving image recognition, autonomous vehicles development, decisions in the financial and energy sectors, advances in medicine, the rise of social networks, and more. Linear regression is an important part of this.
 
 Linear regression is one of the fundamental statistical and machine learning techniques. Whether you want to do statistics, machine learning, or scientific computing, there are good chances that youll need it. It’s advisable to learn it first and then proceed towards more complex methods.
+
+Regression analysis is one of the most important fields in statistics and machine learning. Linear regression is one of them.
+
+Linear regression is used for finding linear relationship between target and one or more predictors. There are two types of linear regression- Simple and Multiple.
