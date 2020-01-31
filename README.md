@@ -8,3 +8,7 @@ Machine learning (ML) is the scientific study of algorithms and statistical mode
 ## Repository Overview
 This repository is about  the main steps to go through the data science projects like EDA and machine learning algorithm.
 
+##  Table of Contents 
+
+- EDA on Cancer Survival 
+- House Price Prediction 
