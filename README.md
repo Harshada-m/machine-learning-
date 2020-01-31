@@ -24,3 +24,5 @@ Here the dataset is about Breast Cancer Survival rate of the women. EDA here pla
 Here the dataset is about the the types of  houses and their features.Linear Regression helps in identifying and predicting the outcome of the sales price for future.
 
 [![House Price Prediction](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQg6WA_pbtTgTsmTLwMTjAve1MmR4DlasQbqG-n4bL4iZtJamfm "House Price Prediction")](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQg6WA_pbtTgTsmTLwMTjAve1MmR4DlasQbqG-n4bL4iZtJamfm "House Price Prediction")
+
+# Projects in execution
